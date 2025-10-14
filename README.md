@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off
+<h2>[SIGGRAPH Asia'25] Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off
 </h2>
 
 <a href="https://arxiv.org/abs/2508.04825"><img src='https://img.shields.io/badge/arXiv-2508.04825-red?style=flat&logo=arXiv&logoColor=red' alt='arxiv'></a>
@@ -19,6 +19,7 @@
 </p>
 
 ## News
+- [2025-10-13] 🎉 Voost has been accepted to SIGGRAPH Asia 2025!
 - [2025-08-19] 🚀 A public demo of Voost is now available on [Hugging Face Spaces](https://huggingface.co/spaces/NXN-Labs/Voost). Try it out and don’t forget to leave a 🤍 _like_ to support us!
 - [2025-08-08] 📄 Voost is now on [arXiv](https://arxiv.org/abs/2508.04825). Visit the [project page](https://nxnai.github.io/Voost/) for more details and results.
 
